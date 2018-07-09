@@ -1,13 +1,14 @@
 **README**
 
-## Project Benson checklist of things to do:
+## Project Benson
 ### Get the MTA data
 * Put the data into pandas data frame
-* Format the data and only leave applicable columns
 * Explore the data through different angles
 * Clean data for New Jersey stations
+* Format the data and only leave applicable columns
 * Analyse and handle outliers and potential incorrect values
-* At the end return a data frame containing the following information:  
+* Plot the data to understand the trends
+* Return a list of top stations sorted descending by number of exits
 
 | Station | Weekday | Time_interval | Num_of_Exits |  
 | --- | --- | --- | --- |  
