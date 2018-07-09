@@ -1,7 +1,7 @@
 **README**
 
 ## Project Benson
-### Get the MTA data
+### MTA data
 * **Associated Files:** 1_MTA_Exploration.ipynb and Clean_and_Process.ipynb
 * Put the data into pandas data frame
 * Explore the data through different angles (duplicates, exits distribution, etc.)
