@@ -16,7 +16,7 @@
 * **Associated Files:** tech_proximity_score_joyce.ipynb 
 * Utilized web-scraping to generate list of 21 most valuable tech companies' in New York
 * Utilized Google Maps API to get geo-locations of the identified tech companies
-* Generated tech company score associated with each identified subway station
+* Tech company proximity score associated with each identified subway station (scoring code is actually in Alan's notebook)
 
 ### Starbucks
 * **Associated Files:** Starbucks_and_Census_Alan.ipynb
