@@ -2,7 +2,7 @@
 
 ## Project Benson
 ### MTA data
-* **Associated Files:** 1_MTA_Exploration.ipynb and Clean_and_Process.ipynb
+* **Associated Files:** MTA_Exploration_auste.ipynb and Clean_and_Process.ipynb
 * Put the data into pandas data frame
 * Explore the data through different angles (duplicates, exits distribution, etc.)
 * Clean data for New Jersey stations
