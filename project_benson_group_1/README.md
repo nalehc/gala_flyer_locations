@@ -13,7 +13,7 @@
 * Generate MTA score associated with each identified subway station
 
 ### Tech Companies
-* **Associated Files:** 
+* **Associated Files:** tech_proximity_score_joyce.ipynb 
 * Utilized web-scraping to generate list of 21 most valuable tech companies' in New York
 * Utilized Google Maps API to get geo-locations of the identified tech companies
 * Generated tech company score associated with each identified subway station
